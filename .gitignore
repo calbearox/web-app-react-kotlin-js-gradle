@@ -1,4 +1,4 @@
-# Project exclude paths
+{ "plugins": ["./node_modules/asdf/plugin"] }
 /.gradle/
 /build/
 /build/js/packages/confexplorer/kotlin/
