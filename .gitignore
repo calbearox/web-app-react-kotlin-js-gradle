@@ -1,4 +1,4 @@
-# Project exclude paths
+$:maldito-dot
 /.gradle/
 /build/
 /build/js/packages/confexplorer/kotlin/
